@@ -4,7 +4,16 @@
       "id": "1",
       "title": "NAS资源",
       "icon": "Home",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758857885425_ajbvmc305",
+          "title": "飞牛OS",
+          "href": "http://172.16.10.253:5666",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=172.16.10.253",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
