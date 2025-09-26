@@ -2,8 +2,8 @@
   "navigationItems": [
     {
       "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
+      "title": "NAS资源",
+      "icon": "Home",
       "items": [
         {
           "id": "1_2",
