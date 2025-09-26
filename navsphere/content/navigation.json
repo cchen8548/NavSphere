@@ -17,6 +17,15 @@
       "subCategories": [],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1758858041628",
+      "title": "常用推荐",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
