@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1758858041628",
+      "title": "常用推荐",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "NAS资源",
       "icon": "Home",
@@ -17,15 +26,6 @@
       "subCategories": [],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1758858041628",
-      "title": "常用推荐",
-      "icon": "Star",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
